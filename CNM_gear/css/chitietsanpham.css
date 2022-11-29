@@ -1,0 +1,35 @@
+.hinhanh{
+    border: 1px solid black;
+    border-radius: 5px;
+    margin: 30px;
+    text-align: center;
+}
+#pic{
+    width: 80%;
+    height: 80%;
+}
+.thongtin{
+    
+}
+#tensp{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+}
+#t_t{
+    font-weight: bold;
+    font-size: 30px;
+    color: black;
+}
+#dude{
+    font-size: 20px;
+    color: red;
+}
+#des{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    font-weight: bolder;
+}
+#motasp{
+    font-weight: bolder;
+    
+}
